@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0",
+  "team_id": "contest2026_486_VelaAILab",
+  "github_login": "XSC0102",
+  "generator": "opencode-collector@1.4.0",
+  "updated_at": "2026-09-15T13:41:10.325Z",
+  "sessions": [
+    {
+      "session_id": "ses_f5ab342f2ffegB8Oa8aRVpy3gb",
+      "tool": "opencode",
+      "started_at": "2026-09-15T13:41:04.909Z",
+      "last_event_at": "2026-09-15T13:41:10.325Z",
+      "event_count": 5,
+      "raw_message_count": 3,
+      "file_path": "logs/XSC0102/2026-09-15/opencode__ses_f5ab342f2ffegB8Oa8aRVpy3gb.jsonl",
+      "collection_mode": "cli",
+      "health": "ok",
+      "title": "New session - 2026-09-15T13:41:04.909Z",
+      "model": "mimo/mimo-v2.5"
+    }
+  ]
+}
