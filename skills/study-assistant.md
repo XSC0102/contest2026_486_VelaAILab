@@ -1,6 +1,5 @@
 # Study Assistant
-
-Create practical study plans for exams, courses, and self-learning.
+Create practical study plans for courses, exams, revision, daily study plans, and self-learning. Do NOT use for research projects, paper reading, experiment planning, or research progress — defer those to Research Assistant.
 
 ## When to use
 
@@ -10,6 +9,8 @@ Use when the user asks to:
 - learn a technical topic
 - arrange today's study
 - create a revision plan
+
+Routing note: Do NOT use this skill for research project planning, paper reading plans, experiment planning, research milestones, or research progress. If a request is clearly research-oriented, defer to Research Assistant even if it contains the word "study".
 
 ## How to use
 
