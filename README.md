@@ -31,13 +31,13 @@ vela Console
    ↓
 AI Agent
    ↓
-Skill 匹配与加载
+Skill Router
    ↓
 目标 Skill
    ↓
-Tools / MiMo V2.5 LLM Backend
+Tools
    ↓
-任务执行结果
+MiMo V2.5 LLM Backend
 ```
 
 各模块职责如下：
